@@ -1,0 +1,1 @@
+Simple puzzle that consists of moving pieces to their correct positions by dragging them with the mouse.
